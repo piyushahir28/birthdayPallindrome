@@ -19,17 +19,6 @@ body {
     margin: auto;
 }
 
-.main::after {
-    background-image: url('./images/back.png');
-    content: "";
-    opacity: 0.1;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    position: absolute;
-}
-
 .container {
     margin: auto;
     width: 90%;
